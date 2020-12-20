@@ -1,4 +1,7 @@
-### Hello World, I'm Cole!👋
+### Hello World, I'm Cole! 👋
+
+ <img align="right" alt="CoverPhoto" src="/mountain_bike.jpeg" width="500" height="320" />
+
 
 ## I'm a passionate, hard-working software engineer that loves to problem solve.
 - 💻 You can find my projects here [portfolio]
@@ -6,7 +9,7 @@
 - 🌱 I’m currently learning Jest / React Testing Library
 - 👨🏻‍💻 I’m looking to collaborate on any exciting open source project
 - 💬 Ask me about anything!
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love to mountain bike!
 
 
 [website]: https://cmccoy10.github.io/
