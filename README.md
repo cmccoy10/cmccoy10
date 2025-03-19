@@ -6,14 +6,13 @@
 ## I'm a passionate, hard-working software engineer that loves to problem solve.
 - 💻 You can find my projects here [portfolio]
 - 🔭 I’m currently working on Algos and Data Structures
-- 🌱 I’m currently learning Jest / React Testing Library
+- 🌱 I’m currently diving into Ruby on Rails v8.0.2
 - 👨🏻‍💻 I’m looking to collaborate on any exciting open source project
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I love to mountain bike!
 
 
 [website]: https://cmccoy10.github.io/
-[angellist]: https://angel.co/u/cole-mccoy-1
 [linkedin]: https://www.linkedin.com/in/cole-mccoy-20665096/
 [portfolio]: https://cmccoy10.github.io/
 
@@ -24,6 +23,7 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />][linkedin]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][linkedin]
